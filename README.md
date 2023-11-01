@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi-Ho! 👋
 
-<!--
-**StuxxNet/StuxxNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stuxxnet&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuxxnet&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/msfidelis)](https://github.com/stuxxnet)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msfidelis/)](www.linkedin.com/in/ramon-borges-342979a2)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fidelissauro)](https://twitter.com/ramonboorges)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Deutsche Telekom ITTC Hungary
+- 🌱 I’m currently learning NodeJS and Typescript
+- 💬 Ask me about Docker, Kubernetes, Prometheus, Victoria Metrics, Grafana and Pulumi
+- 📫 How to reach me: ramonboorges@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Ask me anything about any (ANY) sport and I'll love to have a conversation with you
