@@ -1,6 +1,6 @@
 ### Hi-Ho! 👋
 
-![devops](https://media.makeameme.org/created/one-does-not-fmn6nb.jpg)
+![City Night](https://i.redd.it/suak2zhdt3n71.jpg)
 
 - 🔭 I’m currently working on Deutsche Telekom ITTC Hungary as a DevOps Engineer
 - 🌱 I’m currently learning NodeJS and Typescript
